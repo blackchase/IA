@@ -1,7 +1,7 @@
 :root{
     --cor-fundo: #ffffff ;
     --cor-principal: #000000 ;
-    --cor-secundaria: #000000; 
+    --cor-secundaria: #ffffff; 
     --cor-destaque: #000000;
     --cor-texto: #ffffff;
 
@@ -42,10 +42,10 @@ button:hover{
     color: var(--cor-principal);
 }:root{
     --cor-fundo: #ffffff  ;
-    --cor-principal: #ffffff  ;
-    --cor-secundaria: #000000 ; 
-    --cor-destaque: #ffffff  ;
-    --cor-texto: #000000 ;
+    --cor-principal:#000000  ;
+    --cor-secundaria: #ffffff ; 
+    --cor-destaque: #000000  ;
+    --cor-texto: #ffffff  ;
 
 }
 
