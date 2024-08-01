@@ -41,11 +41,11 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }:root{
-    --cor-fundo: #01080E ;
-    --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333; 
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
+    --cor-fundo: #ffffff ;
+    --cor-principal: #000000 ;
+    --cor-secundaria: #000000 ; 
+    --cor-destaque: #000000 ;
+    --cor-texto: #ffffff ;
 
 }
 
